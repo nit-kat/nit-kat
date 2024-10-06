@@ -1,4 +1,13 @@
 ## Hi there 👋
+## Upskilling myself to delve into the world of Data Science
+
+A Java developer from past experience want to transition to Data Science.
+I am learning Python, Pandas, Data Visualization, SQL, Excel, Power BI.
+
+I am currently learning to create Dashboards.
+
+Feel free to connect with me!
+
 
 <!--
 **nit-kat/nit-kat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
